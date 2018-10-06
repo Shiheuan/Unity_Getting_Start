@@ -33,3 +33,4 @@ sysinfo.txt
 *.dll
 *.exe
 *.zip
+.vs/

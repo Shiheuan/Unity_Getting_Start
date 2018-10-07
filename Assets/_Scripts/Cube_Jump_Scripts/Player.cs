@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class Player : MonoBehaviour {
 
-	protected float jump_speed = 5.0f;
+	protected float jump_speed = 10.0f;
     public bool is_landing = false;
 	// Use this for initialization
 	void Start () {
         this.is_landing = false;
-	}
+    }
 	
 	// Update is called once per frame
 	void Update () {

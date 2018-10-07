@@ -6,7 +6,7 @@ public class Ball : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        this.GetComponent<Rigidbody>().velocity = new Vector3(5.0f, 8.0f, 0.0f);
+        this.GetComponent<Rigidbody>().velocity = new Vector3(8.0f, 11.0f, 0.0f);
     }
 	
 	// Update is called once per frame
